@@ -1,4 +1,4 @@
-#Projeto Chat Bot com API Intermediária#
+Projeto Chat Bot com API Intermediária
 Este projeto consiste em um chatbot que utiliza uma API intermediária em Node.js para consumir a API de repositórios do GitHub, filtrando e retornando os 5 repositórios mais antigos em C#. O chatbot exibe esses dados em um carrossel.
 
 Descrição das Pastas e Arquivos
